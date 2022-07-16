@@ -1,4 +1,8 @@
 ### Olá! Eu sou o Vitor Ramos.
+
+- 👩‍💻 Academico do curso de Análise e Desenvolvimento de Sistemas.
+- 📚 Estudando JavaScript e TypeScript.
+- 
 <div align="center">
   <a href="https://github.com/vitorraamos">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=vitorraamos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
