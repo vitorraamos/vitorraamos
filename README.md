@@ -2,11 +2,11 @@
 
 - 👩‍💻 Academico do curso de Análise e Desenvolvimento de Sistemas.
 - 📚 Estudando JavaScript e TypeScript.
-- 
+
 <div align="center">
   <a href="https://github.com/vitorraamos">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=vitorraamos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=50"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorraamos&layout=default&langs_count=7&theme=github_dark&title_color=&border_radius=50"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=vitorraamos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=50&layout=compact"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorraamos&layout=compact&langs_count=7&theme=github_dark&title_color=&border_radius=50"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
